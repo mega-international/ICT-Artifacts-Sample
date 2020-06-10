@@ -1,0 +1,2225 @@
+.Option REAFFECT_MEGA_PROPERTY 1
+
+
+- Execution       : Extraction (2015/02/24 08:40:46)
+- File exported   : C:\6. SVN Repositories\EA-Frameworks\Framework - ICT\sources_mgr\100-ICT_SystemLibrary.mgr
+- Environment     : c:\program files (x86)\mega\750.v1r2\ENV-750-CP3 - SQL - Sandbox extensions
+- DataBase        : Sandbox extensions
+- User            : Mega
+- Options         : Definition of path of MetaAssociation -> M2013
+- Perimeter       : ~Bav0cNnAjyQR[Standard for export]
+- ************************************************************************************************
+
+
+- Root objects:
+-      Framework - ICT
+- 
+- _StdFile                                artifact_virtual_server.mgs
+- _StdFile                                artifact_workstation.mgs
+- _StdFile                                artifact_workstation.ico
+- _StdFile                                artifact_laptop.mgs
+- _StdFile                                artifact_network_device.mgs
+- _StdFile                                artifact_laptop.ico
+- _StdFile                                artifact_network_device.ico
+- _StdFile                                artifact_mobilephone.mgs
+- _StdFile                                artifact_mobilephone.ico
+- _StdFile                                artifact_server.mgs
+- _StdFile                                artifact_server.ico
+- _StdFile                                artifact_server_mainframe.mgs
+- _StdFile                                artifact_server_minicomputer.mgs
+- _StdFile                                artifact_server_farm.mgs
+- _StdFile                                artifact_computer.ico
+- _StdFile                                artifact_computer.mgs
+- _StdFile                                physical_arch_network_lan.ico
+- _StdFile                                physical_arch_network_wan.ico
+- _StdFile                                technology_os_android.ico
+- _StdFile                                technology_browser.ico
+- _StdFile                                technology_dbms.ico
+- _StdFile                                physical_arch_communication.mgs
+- _StdFile                                physical_arch_network.ico
+- _StdFile                                physical_arch_network.mgs
+- _StdFile                                physical_arch_network_wan.mgs
+- _StdFile                                artifact_supercomputer.mgs
+- _StdFile                                physical_arch_network_lan.mgs
+- _StdFile                                technology_os_linux.ico
+- _StdFile                                technology_os_windows.ico
+- _StdFile                                technology_excel.ico
+- _StdFile                                app_excelapp.ico
+- _StdFile                                app_windowsapp.ico
+- _StdFile                                artifact_satellite.mgs
+- _StdFile                                artifact_satellite.ico
+- _StdFile                                tool_dataservice.ico
+- _StdFile                                tool_ui.ico
+- MetaPicture                             artifact_virtual_server
+- MetaPicture                             artifact_satellite
+- MetaPicture                             Artifact Workstation
+- MetaPicture                             Artifact Network Device
+- MetaPicture                             Artifact Laptop
+- MetaPicture                             Artifact Mobile Phone
+- MetaPicture                             Artifact Server
+- MetaPicture                             artifact_server_mainframe
+- MetaPicture                             artifact_server_minicomputer
+- MetaPicture                             artifact_server_farm
+- MetaPicture                             artifact_computer
+- MetaPicture                             technology_os_android
+- MetaPicture                             technology_browser
+- MetaPicture                             technology_dbms
+- MetaPicture                             physical_arch_communication
+- MetaPicture                             physical_arch_network
+- MetaPicture                             physical_arch_network_wan
+- MetaPicture                             physical_arch_network_lan
+- MetaPicture                             technology_os_linux
+- MetaPicture                             technology_os_windows
+- MetaPicture                             technology_excel
+- MetaPicture                             app_excelapp
+- MetaPicture                             app_windowsapp
+- MetaPicture                             Artifact Super Computer
+- MetaPicture                             Artifact Satellite
+- MetaPicture                             tool_dataservice
+- MetaPicture                             tool_ui
+- System Library                          Framework - ICT
+
+-  "_StdFile" "artifact_virtual_server.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_virtual_server.mgs" -
+        .CHK "k9X)w01LBDd0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2010/01/18 07:39:38" -
+        ."~610000000P00[Modification Date]"                  "2010/01/18 07:39:38" -
+        ."~(10000000v30[Creator]"                            "OmNRasMwq400" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29232" -
+        ."~620000000P40[Update Version]"                     "29232" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_workstation.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_workstation.mgs" -
+        .CHK "6I2xYu(2A1H0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:35" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_workstation.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_workstation.ico" -
+        .CHK "DJ2xvu(2A1K0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:35" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_laptop.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_laptop.mgs" -
+        .CHK "ZG2x(w(2A1X0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:36" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_network_device.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_network_device.mgs" -
+        .CHK "sI2x5t(2Az90C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:35" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_laptop.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_laptop.ico" -
+        .CHK "iH2xJx(2AHa0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:36" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:36" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_network_device.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_network_device.ico" -
+        .CHK "9G2xet(2AzC0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:35" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_mobilephone.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_mobilephone.mgs" -
+        .CHK "5wpvce(2AfV0e0SDsNpple00" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:33" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:34" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "j6L3BsG8kW60" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_mobilephone.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_mobilephone.ico" -
+        .CHK "Hxpv0f(2AjY0e0SDsNpple00" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:33" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:34" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "j6L3BsG8kW60" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_server.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_server.mgs" -
+        .CHK "8vpvsf(2Anc0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:33" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:33" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_server.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_server.ico" -
+        .CHK "CwpvAg(2Anf0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:33" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:33" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_server_mainframe.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_server_mainframe.mgs" -
+        .CHK "7oqOl47lArI1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/25 07:28:47" -
+        ."~610000000P00[Modification Date]"                  "2009/09/25 07:28:50" -
+        ."~(10000000v30[Creator]"                            "dhOLhM5lA900" -
+        ."~b10000000L20[Modifier]"                           "dhOLhM5lA900" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_server_minicomputer.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_server_minicomputer.mgs" -
+        .CHK "hnqOQ67lAPQ1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/25 07:30:34" -
+        ."~610000000P00[Modification Date]"                  "2009/09/25 07:30:35" -
+        ."~(10000000v30[Creator]"                            "dhOLhM5lA900" -
+        ."~b10000000L20[Modifier]"                           "dhOLhM5lA900" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_server_farm.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_server_farm.mgs" -
+        .CHK "UnqOg77lAXa1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/25 07:31:54" -
+        ."~610000000P00[Modification Date]"                  "2009/09/25 07:31:55" -
+        ."~(10000000v30[Creator]"                            "dhOLhM5lA900" -
+        ."~b10000000L20[Modifier]"                           "dhOLhM5lA900" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_computer.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_computer.ico" -
+        .CHK "nEraZLf(F1cAC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/09 08:25:07" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 08:25:12" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_computer.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_computer.mgs" -
+        .CHK "MFrakLf(FfdAC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/09 08:25:18" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 08:25:25" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_network_lan.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_lan.ico" -
+        .CHK "WDratRg(FPcBC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/09 09:40:07" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:40:07" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_network_wan.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_wan.ico" -
+        .CHK "U9MgJdg(Fnd4C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/09 09:52:19" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:52:25" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "technology_os_android.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "technology_os_android.ico" -
+        .CHK "kk7DaabvI9CYC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2014/01/27 13:03:32" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 13:03:37" -
+        ."~(10000000v30[Creator]"                            "M)ez040QBPu5" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29952" -
+        ."~620000000P40[Update Version]"                     "29952" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "technology_browser.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "technology_browser.ico" -
+        .CHK "sl7D0UbvI5xXC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2014/01/27 12:56:32" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:57:30" -
+        ."~(10000000v30[Creator]"                            "M)ez040QBPu5" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29952" -
+        ."~620000000P40[Update Version]"                     "29952" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "technology_dbms.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "technology_dbms.ico" -
+        .CHK "GBAPqQdZGDvBC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/10/29 12:29:40" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:42:26" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_communication.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_communication.mgs" -
+        .CHK "W9xq2dzPDn80820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/02/25 16:33:06" -
+        ."~610000000P00[Modification Date]"                  "2011/02/25 16:33:15" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "pU037o09kiB0" -
+        ."~520000000L40[Create Version]"                     "29248" -
+        ."~620000000P40[Update Version]"                     "29248" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_network.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network.ico" -
+        .CHK "I)hhX8zeFn9vC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 12:57:05" -
+        ."~610000000P00[Modification Date]"                  "2012/05/04 12:57:10" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_network.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network.mgs" -
+        .CHK "Nyhhp8zeFzCvC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 12:57:23" -
+        ."~610000000P00[Modification Date]"                  "2012/05/04 12:57:32" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_network_wan.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_wan.mgs" -
+        .CHK "zzhhk9zeFfFvC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 12:58:22" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:39:19" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_supercomputer.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_supercomputer.mgs" -
+        .CHK "s)hhwIzeFDYvC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 13:08:10" -
+        ."~610000000P00[Modification Date]"                  "2012/05/04 13:08:10" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "physical_arch_network_lan.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_lan.mgs" -
+        .CHK "qyhhfBzeFLJvC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 13:00:25" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:17:15" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "technology_os_linux.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "technology_os_linux.ico" -
+        .CHK "UGCTiU8YDTz1820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/03/22 11:27:40" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:44:38" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29248" -
+        ."~620000000P40[Update Version]"                     "29248" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "technology_os_windows.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "technology_os_windows.ico" -
+        .CHK "GGCTkN8YDbu1820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/03/22 11:20:14" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:44:49" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29248" -
+        ."~620000000P40[Update Version]"                     "29248" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "technology_excel.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "technology_excel.ico" -
+        .CHK "2fCG29a3G1XHC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/24 06:35:46" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:47:34" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "app_excelapp.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "app_excelapp.ico" -
+        .CHK "I2DIeT7RFLvIC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/03/23 13:15:20" -
+        ."~610000000P00[Modification Date]"                  "2012/03/23 13:15:21" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "app_windowsapp.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "app_windowsapp.ico" -
+        .CHK "GFTbx1a3GT36C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/24 06:28:11" -
+        ."~610000000P00[Modification Date]"                  "2012/07/24 06:28:18" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_satellite.mgs"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_satellite.mgs" -
+        .CHK "bgE6HMN3ADq0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:36" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:36" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "artifact_satellite.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "artifact_satellite.ico" -
+        .CHK "ihE6dMN3AHt0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:36" -
+        ."~610000000P00[Modification Date]"                  "2009/05/20 16:25:37" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "820000W8Y8Y8" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "tool_dataservice.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "tool_dataservice.ico" -
+        .CHK "F4F08M0gEXsCC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2011/10/26 13:05:12" -
+        ."~610000000P00[Modification Date]"                  "2011/10/26 13:05:25" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "_StdFile" "tool_ui.ico"
+.Create ."~ckKHVLaDrS00[_StdFile]" "tool_ui.ico" -
+        .CHK "cvlKWJbXGTSHC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/10/23 08:27:12" -
+        ."~610000000P00[Modification Date]"                  "2012/10/23 08:27:20" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "artifact_virtual_server"
+.Create ."~VkKHULaDr400[MetaPicture]" "artifact_virtual_server" -
+        .CHK "d8X)S01LBfa0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2010/01/18 07:39:08" -
+        ."~610000000P00[Modification Date]"                  "2010/01/18 07:39:09" -
+        ."~(10000000v30[Creator]"                            "OmNRasMwq400" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29232" -
+        ."~620000000P40[Update Version]"                     "29232" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "artifact_satellite"
+.Create ."~VkKHULaDr400[MetaPicture]" "artifact_satellite" -
+        .CHK "MgnhVuCfA1l0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/07 08:10:55" -
+        ."~610000000P00[Modification Date]"                  "2009/09/07 08:10:55" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Workstation"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Workstation" -
+        .CHK "mH2xUu(2AzF0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/06/26 08:31:45" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Network Device"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Network Device" -
+        .CHK "iJ2xmr(2Af20C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:34" -
+        ."~610000000P00[Modification Date]"                  "2009/06/26 08:32:52" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Laptop"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Laptop" -
+        .CHK "8G2xrw(2AzV0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:35" -
+        ."~610000000P00[Modification Date]"                  "2009/06/26 08:31:29" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Mobile Phone"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Mobile Phone" -
+        .CHK "fvpvVe(2ALU0e0SDsNpple00" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:33" -
+        ."~610000000P00[Modification Date]"                  "2009/06/26 08:30:43" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "j6L3BsG8kW60" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Server"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Server" -
+        .CHK "lupvkf(2Ajb0C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:33" -
+        ."~610000000P00[Modification Date]"                  "2009/06/26 08:30:05" -
+        ."~(10000000v30[Creator]"                            "820000W8Y8Y8" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "artifact_server_mainframe"
+.Create ."~VkKHULaDr400[MetaPicture]" "artifact_server_mainframe" -
+        .CHK "inqOc47lAjH1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/25 07:28:38" -
+        ."~610000000P00[Modification Date]"                  "2009/09/25 07:28:38" -
+        ."~(10000000v30[Creator]"                            "dhOLhM5lA900" -
+        ."~b10000000L20[Modifier]"                           "dhOLhM5lA900" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "artifact_server_minicomputer"
+.Create ."~VkKHULaDr400[MetaPicture]" "artifact_server_minicomputer" -
+        .CHK "MnqOM67lALP1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/25 07:30:30" -
+        ."~610000000P00[Modification Date]"                  "2009/09/25 07:30:30" -
+        ."~(10000000v30[Creator]"                            "dhOLhM5lA900" -
+        ."~b10000000L20[Modifier]"                           "dhOLhM5lA900" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "artifact_server_farm"
+.Create ."~VkKHULaDr400[MetaPicture]" "artifact_server_farm" -
+        .CHK "8nqOb77lATZ1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/09/25 07:31:49" -
+        ."~610000000P00[Modification Date]"                  "2009/09/25 07:31:49" -
+        ."~(10000000v30[Creator]"                            "dhOLhM5lA900" -
+        ."~b10000000L20[Modifier]"                           "dhOLhM5lA900" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "artifact_computer"
+.Create ."~VkKHULaDr400[MetaPicture]" "artifact_computer" -
+        .CHK "0Era7Lf(FjaAC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/09 08:24:39" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 08:24:39" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "technology_os_android"
+.Create ."~VkKHULaDr400[MetaPicture]" "technology_os_android" -
+        .CHK "Mk7DUabvI1BYC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2014/01/27 13:03:26" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 13:03:26" -
+        ."~(10000000v30[Creator]"                            "M)ez040QBPu5" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29952" -
+        ."~620000000P40[Update Version]"                     "29952" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "technology_browser"
+.Create ."~VkKHULaDr400[MetaPicture]" "technology_browser" -
+        .CHK "Jl7DjTbvI5wXC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2014/01/27 12:56:13" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:56:13" -
+        ."~(10000000v30[Creator]"                            "M)ez040QBPu5" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29952" -
+        ."~620000000P40[Update Version]"                     "29952" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "technology_dbms"
+.Create ."~VkKHULaDr400[MetaPicture]" "technology_dbms" -
+        .CHK "hAAPaQdZGvtBC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/10/29 12:29:24" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:41:55" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "physical_arch_communication"
+.Create ."~VkKHULaDr400[MetaPicture]" "physical_arch_communication" -
+        .CHK "RBxqULzPDz60820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/02/25 16:14:22" -
+        ."~610000000P00[Modification Date]"                  "2011/02/25 16:33:00" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "pU037o09kiB0" -
+        ."~520000000L40[Create Version]"                     "29248" -
+        ."~620000000P40[Update Version]"                     "29248" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "physical_arch_network"
+.Create ."~VkKHULaDr400[MetaPicture]" "physical_arch_network" -
+        .CHK "h(hhF8zeFT8vC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 12:56:47" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:51:48" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100" -
+        ."~w300))FqNHQC[DiagramTypeShapeFile]"               "physical_arch_network*.mgs"
+
+-  "MetaPicture" "physical_arch_network_wan"
+.Create ."~VkKHULaDr400[MetaPicture]" "physical_arch_network_wan" -
+        .CHK "Zzhhc9zeFXEvC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 12:58:14" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:52:47" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100" -
+        ."~w300))FqNHQC[DiagramTypeShapeFile]"               "physical_arch_network_wan*.mgs"
+
+-  "MetaPicture" "physical_arch_network_lan"
+.Create ."~VkKHULaDr400[MetaPicture]" "physical_arch_network_lan" -
+        .CHK "DyhhLBzeF9IvC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/05/04 13:00:05" -
+        ."~610000000P00[Modification Date]"                  "2012/07/09 09:52:59" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100" -
+        ."~w300))FqNHQC[DiagramTypeShapeFile]"               "physical_arch_network_lan*.mgs"
+
+-  "MetaPicture" "technology_os_linux"
+.Create ."~VkKHULaDr400[MetaPicture]" "technology_os_linux" -
+        .CHK "8GCTdU8YDPy1820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/03/22 11:27:35" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:43:55" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29248" -
+        ."~620000000P40[Update Version]"                     "29248" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "technology_os_windows"
+.Create ."~VkKHULaDr400[MetaPicture]" "technology_os_windows" -
+        .CHK "iJCTdN8YDns1820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/03/22 11:20:07" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:44:01" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29248" -
+        ."~620000000P40[Update Version]"                     "29248" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "technology_excel"
+.Create ."~VkKHULaDr400[MetaPicture]" "technology_excel" -
+        .CHK "XeCGs8a3GnVHC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/24 06:35:34" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:47:13" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "app_excelapp"
+.Create ."~VkKHULaDr400[MetaPicture]" "app_excelapp" -
+        .CHK "p1DIUT7RF1uIC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/03/23 13:15:10" -
+        ."~610000000P00[Modification Date]"                  "2012/03/23 13:15:10" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "app_windowsapp"
+.Create ."~VkKHULaDr400[MetaPicture]" "app_windowsapp" -
+        .CHK "zDTbG1a3Gz06C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/07/24 06:27:28" -
+        ."~610000000P00[Modification Date]"                  "2012/07/24 06:27:28" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Super Computer"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Super Computer" -
+        .CHK "Nd(2M01ZA5k1C30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2009/08/19 13:45:42" -
+        ."~610000000P00[Modification Date]"                  "2009/08/19 13:45:42" -
+        ."~(10000000v30[Creator]"                            "OmNRasMwq400" -
+        ."~b10000000L20[Modifier]"                           "OmNRasMwq400" -
+        ."~520000000L40[Create Version]"                     "29216" -
+        ."~620000000P40[Update Version]"                     "29216" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "Artifact Satellite"
+.Create ."~VkKHULaDr400[MetaPicture]" "Artifact Satellite" -
+        .CHK "5gE66MN3Avo0e0SDsNpple00" -
+        ."~510000000L00[Creation Date]"                      "2009/05/20 16:25:36" -
+        ."~610000000P00[Modification Date]"                  "2009/06/26 08:31:04" -
+        ."~(10000000v30[Creator]"                            "j6L3BsG8kW60" -
+        ."~b10000000L20[Modifier]"                           "j6L3BsG8kW60" -
+        ."~520000000L40[Create Version]"                     "29200" -
+        ."~620000000P40[Update Version]"                     "29200" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "tool_dataservice"
+.Create ."~VkKHULaDr400[MetaPicture]" "tool_dataservice" -
+        .CHK "m7F01M0gE1rCC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2011/10/26 13:05:05" -
+        ."~610000000P00[Modification Date]"                  "2011/10/26 13:05:05" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "MetaPicture" "tool_ui"
+.Create ."~VkKHULaDr400[MetaPicture]" "tool_ui" -
+        .CHK "(ulKFJbXG1RHC30000mCpCpC" -
+        ."~510000000L00[Creation Date]"                      "2012/10/23 08:26:55" -
+        ."~610000000P00[Modification Date]"                  "2012/10/23 08:27:29" -
+        ."~(10000000v30[Creator]"                            "OWGOA46BDHy1" -
+        ."~b10000000L20[Modifier]"                           "OWGOA46BDHy1" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100" -
+        ."~w300))FqNHQC[DiagramTypeShapeFile]"               "tool_ui*.mgs"
+
+-  "System Library" "98374C744DC23F16"
+.Create ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" -
+        .CHK "pV3cqnamDPnF820000W8Y8Y8" -
+        ."~510000000L00[Creation Date]"                      "2011/05/05 07:06:28" -
+        ."~610000000P00[Modification Date]"                  "2014/01/27 12:49:49" -
+        ."~(10000000v30[Creator]"                            "pU037o09kiB0" -
+        ."~b10000000L20[Modifier]"                           "M)ez040QBPu5" -
+        ."~520000000L40[Create Version]"                     "29264" -
+        ."~620000000P40[Update Version]"                     "29264" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100" -
+        ."~nOU8g8IMCb30[Converted Name Version]"             "0" -
+        ."~g20000000f60[Generic Local name]"                 "Framework - IT Industry[817985FB4B260BC9]" -
+        ."~gsX0U8W1zW20[GenericLocalName (English)]"         "Framework - ICT[0000000000000000]" -
+        ."~)sX0V8W1zm30[GenericLocalName (Français)]"        "Framework - TIC[0000000000000000]" -
+        ."~a20000000H60[LanguageUpdateDate]"                 "2014/01/27 12:49:49" -
+        ."~c4Z7zM2OxaL0[LanguageUpdateDate (English)]"       "2014/01/27 12:49:49" -
+        ."~K4Z7qM2Ox0L0[LanguageUpdateDate (Français)]"      "2014/01/27 12:49:49"
+
+-  "_StdFile" "artifact_virtual_server.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_virtual_server.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "k9X)w01LBDd0LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2010/01/18 07:39:39" -
+        ."~810000000X00[Link modification date]"             "2010/01/18 07:39:39" -
+        ."~720000000T40[Link Creator]"                       "OmNRasMwq400" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_workstation.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_workstation.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "6I2xYu(2A1H0LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_workstation.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_workstation.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "DJ2xvu(2A1K0hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_laptop.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_laptop.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "ZG2x(w(2A1X0LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_network_device.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_network_device.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "sI2x5t(2Az90LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_laptop.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_laptop.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "iH2xJx(2AHa0hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:36" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:36" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_network_device.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_network_device.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "9G2xet(2AzC0hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_mobilephone.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_mobilephone.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "5wpvce(2AfV0LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "j6L3BsG8kW60" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_mobilephone.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_mobilephone.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "Hxpv0f(2AjY0hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "j6L3BsG8kW60" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_server.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_server.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "8vpvsf(2Anc0LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_server.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_server.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "CwpvAg(2Anf0hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_server_mainframe.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_server_mainframe.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "7oqOl47lArI1LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:28:53" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:28:53" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_server_minicomputer.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_server_minicomputer.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "hnqOQ67lAPQ1LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:30:39" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:30:39" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_server_farm.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_server_farm.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "UnqOg77lAXa1LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:32:01" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:32:01" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_computer.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_computer.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "nEraZLf(F1cAhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 08:25:16" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 08:25:16" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_computer.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_computer.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "MFrakLf(FfdALP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 08:25:29" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 08:25:29" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_network_lan.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_lan.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "WDratRg(FPcBhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:40:07" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:40:07" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_network_wan.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_wan.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "U9MgJdg(Fnd4hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:52:28" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:52:28" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "technology_os_android.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "technology_os_android.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "kk7DaabvI9CYhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 13:03:40" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 13:03:40" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "technology_browser.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "technology_browser.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "sl7D0UbvI5xXhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 12:56:56" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 12:56:56" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "technology_dbms.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "technology_dbms.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "GBAPqQdZGDvBhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/10/29 12:29:49" -
+        ."~810000000X00[Link modification date]"             "2012/10/29 12:29:49" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_communication.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_communication.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "W9xq2dzPDn80LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2011/02/25 16:33:20" -
+        ."~810000000X00[Link modification date]"             "2011/02/25 16:33:20" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_network.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "I)hhX8zeFn9vhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:57:13" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:57:13" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_network.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "Nyhhp8zeFzCvLP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:57:35" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:57:35" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_network_wan.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_wan.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "zzhhk9zeFfFvLP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:58:32" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:58:32" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_supercomputer.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_supercomputer.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "s)hhwIzeFDYvLP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:10" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:10" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "physical_arch_network_lan.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "physical_arch_network_lan.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "qyhhfBzeFLJvLP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:00:25" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:00:25" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "technology_os_linux.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "technology_os_linux.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "UGCTiU8YDTz1hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:27:52" -
+        ."~810000000X00[Link modification date]"             "2011/03/22 11:27:52" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "technology_os_windows.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "technology_os_windows.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "GGCTkN8YDbu1hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:20:31" -
+        ."~810000000X00[Link modification date]"             "2011/03/22 11:20:31" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "technology_excel.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "technology_excel.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "2fCG29a3G1XHhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:36:05" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:36:09" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "app_excelapp.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "app_excelapp.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "I2DIeT7RFLvIhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/03/23 13:15:37" -
+        ."~810000000X00[Link modification date]"             "2012/03/23 13:15:37" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "app_windowsapp.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "app_windowsapp.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "GFTbx1a3GT36hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:28:22" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:28:22" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_satellite.mgs"
+-  "_Type" "MGS Format Picture"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_satellite.mgs" ."~xkKHWLaDri10[_Type]" "MGS Format Picture" -
+        .CHK "bgE6HMN3ADq0LP7tyxjItqv2" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:36" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:36" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "artifact_satellite.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "artifact_satellite.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "ihE6dMN3AHt0hnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:37" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:37" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "tool_dataservice.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "tool_dataservice.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "F4F08M0gEXsChnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2011/10/26 13:05:30" -
+        ."~810000000X00[Link modification date]"             "2011/10/26 13:05:30" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "_StdFile" "tool_ui.ico"
+-  "_Type" "Ico"
+.Connect ."~ckKHVLaDrS00[_StdFile]" "tool_ui.ico" ."~xkKHWLaDri10[_Type]" "Ico" -
+        .CHK "cvlKWJbXGTSHhnXI6iqDrW40" -
+        ."~710000000T00[Link creation date]"                 "2012/10/23 08:27:24" -
+        ."~810000000X00[Link modification date]"             "2012/10/23 08:27:24" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_virtual_server"
+-  "_StdFile" "artifact_virtual_server.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_virtual_server" ."~okKHWLaDr810[_StdFile]" "artifact_virtual_server.mgs" -
+        .CHK "d8X)S01LBfa0k9X)w01LBDd0" -
+        ."~710000000T00[Link creation date]"                 "2010/01/18 07:39:39" -
+        ."~810000000X00[Link modification date]"             "2010/01/18 07:39:39" -
+        ."~720000000T40[Link Creator]"                       "OmNRasMwq400" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_virtual_server"
+-  "_StdFile" "artifact_server.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_virtual_server" ."~okKHWLaDr810[_StdFile]" "artifact_server.ico" -
+        .CHK "d8X)S01LBfa0CwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2010/01/18 07:39:44" -
+        ."~810000000X00[Link modification date]"             "2010/01/18 07:39:44" -
+        ."~720000000T40[Link Creator]"                       "OmNRasMwq400" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_satellite"
+-  "_StdFile" "artifact_satellite.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_satellite" ."~okKHWLaDr810[_StdFile]" "artifact_satellite.mgs" -
+        .CHK "MgnhVuCfA1l0bgE6HMN3ADq0" -
+        ."~710000000T00[Link creation date]"                 "2009/09/07 11:38:33" -
+        ."~810000000X00[Link modification date]"             "2009/09/07 11:38:33" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_satellite"
+-  "_StdFile" "artifact_satellite.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_satellite" ."~okKHWLaDr810[_StdFile]" "artifact_satellite.ico" -
+        .CHK "MgnhVuCfA1l0ihE6dMN3AHt0" -
+        ."~710000000T00[Link creation date]"                 "2009/09/07 11:38:33" -
+        ."~810000000X00[Link modification date]"             "2009/09/07 11:38:33" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Workstation"
+-  "_StdFile" "artifact_workstation.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Workstation" ."~okKHWLaDr810[_StdFile]" "artifact_workstation.mgs" -
+        .CHK "mH2xUu(2AzF06I2xYu(2A1H0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Workstation"
+-  "_StdFile" "artifact_workstation.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Workstation" ."~okKHWLaDr810[_StdFile]" "artifact_workstation.ico" -
+        .CHK "mH2xUu(2AzF0DJ2xvu(2A1K0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Network Device"
+-  "_StdFile" "artifact_network_device.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Network Device" ."~okKHWLaDr810[_StdFile]" "artifact_network_device.mgs" -
+        .CHK "iJ2xmr(2Af20sI2x5t(2Az90" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Network Device"
+-  "_StdFile" "artifact_network_device.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Network Device" ."~okKHWLaDr810[_StdFile]" "artifact_network_device.ico" -
+        .CHK "iJ2xmr(2Af209G2xet(2AzC0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Laptop"
+-  "_StdFile" "artifact_laptop.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Laptop" ."~okKHWLaDr810[_StdFile]" "artifact_laptop.mgs" -
+        .CHK "8G2xrw(2AzV0ZG2x(w(2A1X0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:35" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:35" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Laptop"
+-  "_StdFile" "artifact_laptop.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Laptop" ."~okKHWLaDr810[_StdFile]" "artifact_laptop.ico" -
+        .CHK "8G2xrw(2AzV0iH2xJx(2AHa0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:36" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:36" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Mobile Phone"
+-  "_StdFile" "artifact_mobilephone.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Mobile Phone" ."~okKHWLaDr810[_StdFile]" "artifact_mobilephone.mgs" -
+        .CHK "fvpvVe(2ALU05wpvce(2AfV0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "j6L3BsG8kW60" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Mobile Phone"
+-  "_StdFile" "artifact_mobilephone.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Mobile Phone" ."~okKHWLaDr810[_StdFile]" "artifact_mobilephone.ico" -
+        .CHK "fvpvVe(2ALU0Hxpv0f(2AjY0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "j6L3BsG8kW60" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Server"
+-  "_StdFile" "artifact_server.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Server" ."~okKHWLaDr810[_StdFile]" "artifact_server.mgs" -
+        .CHK "lupvkf(2Ajb08vpvsf(2Anc0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Server"
+-  "_StdFile" "artifact_server.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Server" ."~okKHWLaDr810[_StdFile]" "artifact_server.ico" -
+        .CHK "lupvkf(2Ajb0CwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:33" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:33" -
+        ."~720000000T40[Link Creator]"                       "820000W8Y8Y8" -
+        ."~920000000b40[Link Modifier]"                      "820000W8Y8Y8" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_server_mainframe"
+-  "_StdFile" "artifact_server_mainframe.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_server_mainframe" ."~okKHWLaDr810[_StdFile]" "artifact_server_mainframe.mgs" -
+        .CHK "inqOc47lAjH17oqOl47lArI1" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:28:47" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:28:47" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_server_mainframe"
+-  "_StdFile" "artifact_server.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_server_mainframe" ."~okKHWLaDr810[_StdFile]" "artifact_server.ico" -
+        .CHK "inqOc47lAjH1CwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:29:03" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:29:03" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_server_minicomputer"
+-  "_StdFile" "artifact_server_minicomputer.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_server_minicomputer" ."~okKHWLaDr810[_StdFile]" "artifact_server_minicomputer.mgs" -
+        .CHK "MnqOM67lALP1hnqOQ67lAPQ1" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:30:34" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:30:34" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_server_minicomputer"
+-  "_StdFile" "artifact_server.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_server_minicomputer" ."~okKHWLaDr810[_StdFile]" "artifact_server.ico" -
+        .CHK "MnqOM67lALP1CwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:30:46" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:30:46" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_server_farm"
+-  "_StdFile" "artifact_server_farm.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_server_farm" ."~okKHWLaDr810[_StdFile]" "artifact_server_farm.mgs" -
+        .CHK "8nqOb77lATZ1UnqOg77lAXa1" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:31:54" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:31:54" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_server_farm"
+-  "_StdFile" "artifact_server.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_server_farm" ."~okKHWLaDr810[_StdFile]" "artifact_server.ico" -
+        .CHK "8nqOb77lATZ1CwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2009/09/25 07:32:07" -
+        ."~810000000X00[Link modification date]"             "2009/09/25 07:32:07" -
+        ."~720000000T40[Link Creator]"                       "dhOLhM5lA900" -
+        ."~920000000b40[Link Modifier]"                      "dhOLhM5lA900" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_computer"
+-  "_StdFile" "artifact_computer.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_computer" ."~okKHWLaDr810[_StdFile]" "artifact_computer.ico" -
+        .CHK "0Era7Lf(FjaAnEraZLf(F1cA" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 08:25:07" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 08:25:07" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "artifact_computer"
+-  "_StdFile" "artifact_computer.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "artifact_computer" ."~okKHWLaDr810[_StdFile]" "artifact_computer.mgs" -
+        .CHK "0Era7Lf(FjaAMFrakLf(FfdA" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 08:25:18" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 08:25:18" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "technology_os_android"
+-  "_StdFile" "technology_os_android.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "technology_os_android" ."~okKHWLaDr810[_StdFile]" "technology_os_android.ico" -
+        .CHK "Mk7DUabvI1BYkk7DaabvI9CY" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 13:03:32" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 13:03:32" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "technology_browser"
+-  "_StdFile" "technology_browser.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "technology_browser" ."~okKHWLaDr810[_StdFile]" "technology_browser.ico" -
+        .CHK "Jl7DjTbvI5wXsl7D0UbvI5xX" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 12:56:32" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 12:56:32" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "technology_dbms"
+-  "_StdFile" "technology_dbms.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "technology_dbms" ."~okKHWLaDr810[_StdFile]" "technology_dbms.ico" -
+        .CHK "hAAPaQdZGvtBGBAPqQdZGDvB" -
+        ."~710000000T00[Link creation date]"                 "2012/10/29 12:29:40" -
+        ."~810000000X00[Link modification date]"             "2012/10/29 12:29:40" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_communication"
+-  "_StdFile" "physical_arch_communication.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_communication" ."~okKHWLaDr810[_StdFile]" "physical_arch_communication.mgs" -
+        .CHK "RBxqULzPDz60W9xq2dzPDn80" -
+        ."~710000000T00[Link creation date]"                 "2011/02/25 16:33:07" -
+        ."~810000000X00[Link modification date]"             "2011/02/25 16:33:07" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_network"
+-  "_StdFile" "physical_arch_network.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_network" ."~okKHWLaDr810[_StdFile]" "physical_arch_network.ico" -
+        .CHK "h(hhF8zeFT8vI)hhX8zeFn9v" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:51:47" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:51:47" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_network"
+-  "_StdFile" "physical_arch_network.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_network" ."~okKHWLaDr810[_StdFile]" "physical_arch_network.mgs" -
+        .CHK "h(hhF8zeFT8vNyhhp8zeFzCv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:57:23" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:57:23" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_network_wan"
+-  "_StdFile" "physical_arch_network_wan.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_network_wan" ."~okKHWLaDr810[_StdFile]" "physical_arch_network_wan.ico" -
+        .CHK "Zzhhc9zeFXEvU9MgJdg(Fnd4" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:52:19" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:52:19" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_network_wan"
+-  "_StdFile" "physical_arch_network_wan.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_network_wan" ."~okKHWLaDr810[_StdFile]" "physical_arch_network_wan.mgs" -
+        .CHK "Zzhhc9zeFXEvzzhhk9zeFfFv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:58:22" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:58:22" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_network_lan"
+-  "_StdFile" "physical_arch_network_lan.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_network_lan" ."~okKHWLaDr810[_StdFile]" "physical_arch_network_lan.ico" -
+        .CHK "DyhhLBzeF9IvWDratRg(FPcB" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:40:07" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:40:07" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "physical_arch_network_lan"
+-  "_StdFile" "physical_arch_network_lan.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "physical_arch_network_lan" ."~okKHWLaDr810[_StdFile]" "physical_arch_network_lan.mgs" -
+        .CHK "DyhhLBzeF9IvqyhhfBzeFLJv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:00:25" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:00:25" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "technology_os_linux"
+-  "_StdFile" "technology_os_linux.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "technology_os_linux" ."~okKHWLaDr810[_StdFile]" "technology_os_linux.ico" -
+        .CHK "8GCTdU8YDPy1UGCTiU8YDTz1" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:27:40" -
+        ."~810000000X00[Link modification date]"             "2011/03/22 11:27:40" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "technology_os_windows"
+-  "_StdFile" "technology_os_windows.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "technology_os_windows" ."~okKHWLaDr810[_StdFile]" "technology_os_windows.ico" -
+        .CHK "iJCTdN8YDns1GGCTkN8YDbu1" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:20:14" -
+        ."~810000000X00[Link modification date]"             "2011/03/22 11:20:14" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "technology_excel"
+-  "_StdFile" "technology_excel.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "technology_excel" ."~okKHWLaDr810[_StdFile]" "technology_excel.ico" -
+        .CHK "XeCGs8a3GnVH2fCG29a3G1XH" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:35:47" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:35:47" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "app_excelapp"
+-  "_StdFile" "app_excelapp.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "app_excelapp" ."~okKHWLaDr810[_StdFile]" "app_excelapp.ico" -
+        .CHK "p1DIUT7RF1uII2DIeT7RFLvI" -
+        ."~710000000T00[Link creation date]"                 "2012/03/23 13:15:21" -
+        ."~810000000X00[Link modification date]"             "2012/03/23 13:15:21" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "app_windowsapp"
+-  "_StdFile" "app_windowsapp.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "app_windowsapp" ."~okKHWLaDr810[_StdFile]" "app_windowsapp.ico" -
+        .CHK "zDTbG1a3Gz06GFTbx1a3GT36" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:28:11" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:28:11" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Super Computer"
+-  "_StdFile" "SERVSUP.MGS"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Super Computer" ."~okKHWLaDr810[_StdFile]" "SERVSUP.MGS" -
+        .CHK "Nd(2M01ZA5k10r3YNZ9jxq10" -
+        ."~710000000T00[Link creation date]"                 "2009/08/19 13:45:55" -
+        ."~810000000X00[Link modification date]"             "2009/08/19 13:45:55" -
+        ."~720000000T40[Link Creator]"                       "OmNRasMwq400" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Super Computer"
+-  "_StdFile" "artifact_supercomputer.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Super Computer" ."~okKHWLaDr810[_StdFile]" "artifact_supercomputer.mgs" -
+        .CHK "Nd(2M01ZA5k1s)hhwIzeFDYv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:10" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:10" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Super Computer"
+-  "_StdFile" "artifact_server.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Super Computer" ."~okKHWLaDr810[_StdFile]" "artifact_server.ico" -
+        .CHK "Nd(2M01ZA5k1CwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2009/08/19 13:46:03" -
+        ."~810000000X00[Link modification date]"             "2009/08/19 13:46:03" -
+        ."~720000000T40[Link Creator]"                       "OmNRasMwq400" -
+        ."~920000000b40[Link Modifier]"                      "OmNRasMwq400" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Satellite"
+-  "_StdFile" "artifact_satellite.mgs"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Satellite" ."~okKHWLaDr810[_StdFile]" "artifact_satellite.mgs" -
+        .CHK "5gE66MN3Avo0bgE6HMN3ADq0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:36" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:36" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "j6L3BsG8kW60" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "Artifact Satellite"
+-  "_StdFile" "artifact_satellite.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "Artifact Satellite" ."~okKHWLaDr810[_StdFile]" "artifact_satellite.ico" -
+        .CHK "5gE66MN3Avo0ihE6dMN3AHt0" -
+        ."~710000000T00[Link creation date]"                 "2009/05/20 16:25:37" -
+        ."~810000000X00[Link modification date]"             "2009/05/20 16:25:37" -
+        ."~720000000T40[Link Creator]"                       "j6L3BsG8kW60" -
+        ."~920000000b40[Link Modifier]"                      "j6L3BsG8kW60" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "tool_dataservice"
+-  "_StdFile" "tool_dataservice.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "tool_dataservice" ."~okKHWLaDr810[_StdFile]" "tool_dataservice.ico" -
+        .CHK "m7F01M0gE1rCF4F08M0gEXsC" -
+        ."~710000000T00[Link creation date]"                 "2011/10/26 13:05:12" -
+        ."~810000000X00[Link modification date]"             "2011/10/26 13:05:12" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "MetaPicture" "tool_ui"
+-  "_StdFile" "tool_ui.ico"
+.Connect ."~VkKHULaDr400[MetaPicture]" "tool_ui" ."~okKHWLaDr810[_StdFile]" "tool_ui.ico" -
+        .CHK "(ulKFJbXG1RHcvlKWJbXGTSH" -
+        ."~710000000T00[Link creation date]"                 "2012/10/23 08:27:12" -
+        ."~810000000X00[Link modification date]"             "2012/10/23 08:27:12" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "tool_dataservice"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "tool_dataservice" -
+        .CHK "pV3cqnamDPnFm7F01M0gE1rC" -
+        ."~710000000T00[Link creation date]"                 "2011/10/26 13:05:05" -
+        ."~810000000X00[Link modification date]"             "2012/12/03 09:25:59" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "tool_dataservice.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "tool_dataservice.ico" -
+        .CHK "pV3cqnamDPnFF4F08M0gEXsC" -
+        ."~710000000T00[Link creation date]"                 "2011/10/26 18:56:54" -
+        ."~810000000X00[Link modification date]"             "2012/12/03 09:26:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Super Computer"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Super Computer" -
+        .CHK "pV3cqnamDPnFNd(2M01ZA5k1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_virtual_server"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_virtual_server" -
+        .CHK "pV3cqnamDPnFd8X)S01LBfa0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_virtual_server.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_virtual_server.mgs" -
+        .CHK "pV3cqnamDPnFk9X)w01LBDd0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "app_windowsapp"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "app_windowsapp" -
+        .CHK "pV3cqnamDPnFzDTbG1a3Gz06" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:27:28" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:27:28" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "app_windowsapp.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "app_windowsapp.ico" -
+        .CHK "pV3cqnamDPnFGFTbx1a3GT36" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:30:48" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:30:48" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_excel"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_excel" -
+        .CHK "pV3cqnamDPnFXeCGs8a3GnVH" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:35:34" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:35:34" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_excel.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_excel.ico" -
+        .CHK "pV3cqnamDPnF2fCG29a3G1XH" -
+        ."~710000000T00[Link creation date]"                 "2012/07/24 06:36:23" -
+        ."~810000000X00[Link modification date]"             "2012/07/24 06:36:31" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "tool_ui"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "tool_ui" -
+        .CHK "pV3cqnamDPnF(ulKFJbXG1RH" -
+        ."~710000000T00[Link creation date]"                 "2012/10/23 08:26:55" -
+        ."~810000000X00[Link modification date]"             "2012/12/03 09:26:56" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "tool_ui.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "tool_ui.ico" -
+        .CHK "pV3cqnamDPnFcvlKWJbXGTSH" -
+        ."~710000000T00[Link creation date]"                 "2012/10/23 08:28:19" -
+        ."~810000000X00[Link modification date]"             "2012/12/03 09:27:01" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_browser"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_browser" -
+        .CHK "pV3cqnamDPnFJl7DjTbvI5wX" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 12:56:13" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 12:56:13" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_browser.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_browser.ico" -
+        .CHK "pV3cqnamDPnFsl7D0UbvI5xX" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 12:57:55" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 12:57:55" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_os_android"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_os_android" -
+        .CHK "pV3cqnamDPnFMk7DUabvI1BY" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 13:03:26" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 13:03:26" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_os_android.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_os_android.ico" -
+        .CHK "pV3cqnamDPnFkk7DaabvI9CY" -
+        ."~710000000T00[Link creation date]"                 "2014/01/27 13:04:04" -
+        ."~810000000X00[Link modification date]"             "2014/01/27 13:04:04" -
+        ."~720000000T40[Link Creator]"                       "M)ez040QBPu5" -
+        ."~920000000b40[Link Modifier]"                      "M)ez040QBPu5" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server_mainframe"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server_mainframe" -
+        .CHK "pV3cqnamDPnFinqOc47lAjH1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server_mainframe.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server_mainframe.mgs" -
+        .CHK "pV3cqnamDPnF7oqOl47lArI1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server_minicomputer"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server_minicomputer" -
+        .CHK "pV3cqnamDPnFMnqOM67lALP1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server_minicomputer.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server_minicomputer.mgs" -
+        .CHK "pV3cqnamDPnFhnqOQ67lAPQ1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server_farm"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server_farm" -
+        .CHK "pV3cqnamDPnF8nqOb77lATZ1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server_farm.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server_farm.mgs" -
+        .CHK "pV3cqnamDPnFUnqOg77lAXa1" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Satellite"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Satellite" -
+        .CHK "pV3cqnamDPnF5gE66MN3Avo0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_satellite.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_satellite.mgs" -
+        .CHK "pV3cqnamDPnFbgE6HMN3ADq0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_satellite.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_satellite.ico" -
+        .CHK "pV3cqnamDPnFihE6dMN3AHt0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_dbms"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_dbms" -
+        .CHK "pV3cqnamDPnFhAAPaQdZGvtB" -
+        ."~710000000T00[Link creation date]"                 "2012/10/29 12:29:24" -
+        ."~810000000X00[Link modification date]"             "2012/10/29 12:29:24" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_dbms.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_dbms.ico" -
+        .CHK "pV3cqnamDPnFGBAPqQdZGDvB" -
+        ."~710000000T00[Link creation date]"                 "2012/10/29 12:30:48" -
+        ."~810000000X00[Link modification date]"             "2012/10/29 12:30:48" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "app_excelapp"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "app_excelapp" -
+        .CHK "pV3cqnamDPnFp1DIUT7RF1uI" -
+        ."~710000000T00[Link creation date]"                 "2012/03/23 13:15:10" -
+        ."~810000000X00[Link modification date]"             "2012/03/23 13:15:10" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "app_excelapp.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "app_excelapp.ico" -
+        .CHK "pV3cqnamDPnFI2DIeT7RFLvI" -
+        ."~710000000T00[Link creation date]"                 "2012/03/23 13:16:57" -
+        ."~810000000X00[Link modification date]"             "2012/03/23 13:16:57" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_os_windows"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_os_windows" -
+        .CHK "pV3cqnamDPnFiJCTdN8YDns1" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:20:07" -
+        ."~810000000X00[Link modification date]"             "2011/05/05 07:08:14" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_os_windows.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_os_windows.ico" -
+        .CHK "pV3cqnamDPnFGGCTkN8YDbu1" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:27:21" -
+        ."~810000000X00[Link modification date]"             "2011/05/05 07:07:42" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_os_linux"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_os_linux" -
+        .CHK "pV3cqnamDPnF8GCTdU8YDPy1" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:27:35" -
+        ."~810000000X00[Link modification date]"             "2011/05/05 07:08:14" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "technology_os_linux.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "technology_os_linux.ico" -
+        .CHK "pV3cqnamDPnFUGCTiU8YDTz1" -
+        ."~710000000T00[Link creation date]"                 "2011/03/22 11:28:23" -
+        ."~810000000X00[Link modification date]"             "2011/05/05 07:07:42" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_computer"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_computer" -
+        .CHK "pV3cqnamDPnF0Era7Lf(FjaA" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 08:24:39" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 08:24:39" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_computer.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_computer.ico" -
+        .CHK "pV3cqnamDPnFnEraZLf(F1cA" -
+        ."~710000000T00[Link creation date]"                 "2012/07/26 13:35:55" -
+        ."~810000000X00[Link modification date]"             "2012/07/26 13:35:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_computer.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_computer.mgs" -
+        .CHK "pV3cqnamDPnFMFrakLf(FfdA" -
+        ."~710000000T00[Link creation date]"                 "2012/07/26 13:35:57" -
+        ."~810000000X00[Link modification date]"             "2012/07/26 13:35:57" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network_lan.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network_lan.ico" -
+        .CHK "pV3cqnamDPnFWDratRg(FPcB" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:40:38" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:40:38" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network_wan.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network_wan.ico" -
+        .CHK "pV3cqnamDPnFU9MgJdg(Fnd4" -
+        ."~710000000T00[Link creation date]"                 "2012/07/09 09:54:11" -
+        ."~810000000X00[Link modification date]"             "2012/07/09 09:54:11" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_satellite"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_satellite" -
+        .CHK "pV3cqnamDPnFMgnhVuCfA1l0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network" -
+        .CHK "pV3cqnamDPnFh(hhF8zeFT8v" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:56:47" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:56:47" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network.ico" -
+        .CHK "pV3cqnamDPnFI)hhX8zeFn9v" -
+        ."~710000000T00[Link creation date]"                 "2012/07/26 13:34:24" -
+        ."~810000000X00[Link modification date]"             "2012/07/26 13:34:24" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network.mgs" -
+        .CHK "pV3cqnamDPnFNyhhp8zeFzCv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network_wan"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network_wan" -
+        .CHK "pV3cqnamDPnFZzhhc9zeFXEv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:58:14" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:58:14" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network_wan.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network_wan.mgs" -
+        .CHK "pV3cqnamDPnFzzhhk9zeFfFv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network_lan"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network_lan" -
+        .CHK "pV3cqnamDPnFDyhhLBzeF9Iv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:00:05" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:00:05" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_network_lan.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_network_lan.mgs" -
+        .CHK "pV3cqnamDPnFqyhhfBzeFLJv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_supercomputer.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_supercomputer.mgs" -
+        .CHK "pV3cqnamDPnFs)hhwIzeFDYv" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_communication"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_communication" -
+        .CHK "pV3cqnamDPnFRBxqULzPDz60" -
+        ."~710000000T00[Link creation date]"                 "2011/02/25 16:14:23" -
+        ."~810000000X00[Link modification date]"             "2011/05/05 07:08:25" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "physical_arch_communication.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "physical_arch_communication.mgs" -
+        .CHK "pV3cqnamDPnFW9xq2dzPDn80" -
+        ."~710000000T00[Link creation date]"                 "2011/02/25 16:42:07" -
+        ."~810000000X00[Link modification date]"             "2011/05/05 07:07:42" -
+        ."~720000000T40[Link Creator]"                       "pU037o09kiB0" -
+        ."~920000000b40[Link Modifier]"                      "pU037o09kiB0" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Mobile Phone"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Mobile Phone" -
+        .CHK "pV3cqnamDPnFfvpvVe(2ALU0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_mobilephone.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_mobilephone.mgs" -
+        .CHK "pV3cqnamDPnF5wpvce(2AfV0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_mobilephone.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_mobilephone.ico" -
+        .CHK "pV3cqnamDPnFHxpv0f(2AjY0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Server"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Server" -
+        .CHK "pV3cqnamDPnFlupvkf(2Ajb0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server.mgs" -
+        .CHK "pV3cqnamDPnF8vpvsf(2Anc0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_server.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_server.ico" -
+        .CHK "pV3cqnamDPnFCwpvAg(2Anf0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Network Device"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Network Device" -
+        .CHK "pV3cqnamDPnFiJ2xmr(2Af20" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_network_device.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_network_device.mgs" -
+        .CHK "pV3cqnamDPnFsI2x5t(2Az90" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_network_device.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_network_device.ico" -
+        .CHK "pV3cqnamDPnF9G2xet(2AzC0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Workstation"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Workstation" -
+        .CHK "pV3cqnamDPnFmH2xUu(2AzF0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_workstation.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_workstation.mgs" -
+        .CHK "pV3cqnamDPnF6I2xYu(2A1H0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_workstation.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_workstation.ico" -
+        .CHK "pV3cqnamDPnFDJ2xvu(2A1K0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "Artifact Laptop"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "Artifact Laptop" -
+        .CHK "pV3cqnamDPnF8G2xrw(2AzV0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 12:45:20" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 12:45:20" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_laptop.mgs"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_laptop.mgs" -
+        .CHK "pV3cqnamDPnFZG2x(w(2A1X0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "System Library" "98374C744DC23F16"
+-  "System Library Element" "artifact_laptop.ico"
+.Connect ."~kV(wwqE8Bf80[System Library]" "98374C744DC23F16" ."~vT(wdyE8BLI0[System Library Element]" "artifact_laptop.ico" -
+        .CHK "pV3cqnamDPnFiH2xJx(2AHa0" -
+        ."~710000000T00[Link creation date]"                 "2012/05/04 13:08:55" -
+        ."~810000000X00[Link modification date]"             "2012/05/04 13:08:55" -
+        ."~720000000T40[Link Creator]"                       "OWGOA46BDHy1" -
+        ."~920000000b40[Link Modifier]"                      "OWGOA46BDHy1" -
+        ."~410000000H00[Order]"                              "9999"
